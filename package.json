@@ -1,0 +1,18 @@
+{
+  "name": "Web-Apps-Tutorial",
+  "version": "1.0.0",
+  "description": "",
+  "main": "scripts.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "ghttps://github.com/tejavictory/3DModellingTutorial"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.15.3"
+  }
+}
